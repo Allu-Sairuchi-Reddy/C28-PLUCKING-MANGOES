@@ -44,7 +44,7 @@ ic5=new Icrm(20,390,30);
 ic6=new Icrm(140,330,30);
 
 stone=new Stone(300,300,50);
-slin=new Shot(stone.body,{x:600,y:350});
+slin=new Shot(stone.body,{x:600,y:50});
 	Engine.run(engine);
   
 }
