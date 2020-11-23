@@ -25,7 +25,7 @@ girl.scale=0.3;
 
 tree=createSprite(80,350);
 tree.addImage(treei);
-tree.scale=0.5;
+tree.scale=0.6;
 
 airplane=createSprite(700,140,50,50);
 airplane.addImage(airplanei);
